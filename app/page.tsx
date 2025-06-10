@@ -74,7 +74,7 @@ export default function Home() {
         "Allgemeine Mitgliederfragen klären",
         "Vertragsdaten ändern und anpassen",
         "Auskunft zu Kursen und Öffnungszeiten",
-        "Feedback von Mitgliedern gzielt einholen",
+        "Feedback von Mitgliedern gezielt einholen",
         "Beschwerden empathisch behandeln",
       ],
     },
@@ -582,7 +582,7 @@ Beste Grüße
                     <TrendingUp className="h-8 w-8 text-black" />
                   </div>
                   <h3 className="text-xl font-bold text-black">Flexibel skalierbar</h3>
-                  <p className="mt-4 text-gray-600">Wachse mit einer Lösungm die für die Zukunft gewappnet ist.</p>
+                  <p className="mt-4 text-gray-600">Wachse mit einer Lösung, die für die Zukunft gewappnet ist.</p>
                 </div>
               </AnimatedSection>
             </div>
