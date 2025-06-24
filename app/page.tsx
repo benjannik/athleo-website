@@ -719,7 +719,7 @@ Beste Grüße
           </div>
           <div className="mt-12 border-t border-gray-200 pt-8">
             <p className="text-center text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} athleo GmbH. Alle Rechte vorbehalten.
+              &copy; {new Date().getFullYear()} athleo UG. Alle Rechte vorbehalten.
             </p>
           </div>
         </div>
